@@ -1,3 +1,33 @@
+# TASK 1
+![task1](https://user-images.githubusercontent.com/72017753/114984751-40045c80-9ebc-11eb-94de-420360cf0c2b.JPG)
+
+# TASK 2
+![task2](https://user-images.githubusercontent.com/72017753/114984854-55798680-9ebc-11eb-9a77-b3952240e2f4.JPG)
+
+# TASK 3
+![task3](https://user-images.githubusercontent.com/72017753/114984896-60341b80-9ebc-11eb-8ae6-f998c8fe73c0.JPG)
+
+# TASK 4-1 (Read)
+![task4-1(read)](https://user-images.githubusercontent.com/72017753/114984962-70e49180-9ebc-11eb-8686-b8ffc53efb93.JPG)
+
+# TASK 4-2 (Create-1)
+![task4-2(create-1)](https://user-images.githubusercontent.com/72017753/114985035-8b1e6f80-9ebc-11eb-84e2-77b10698b1f7.JPG)
+
+# TASK 4-2 (Create-2)
+![task4-2(create-2)](https://user-images.githubusercontent.com/72017753/114985159-ad17f200-9ebc-11eb-84e5-4e6ef020de10.JPG)
+
+# TASK 4-3 (Update-1)
+![task4-3(update-1)](https://user-images.githubusercontent.com/72017753/114985191-b86b1d80-9ebc-11eb-8707-a4f35775ff89.JPG)
+
+# TASK 4-3 (Update-2)
+![task4-3(update-2)](https://user-images.githubusercontent.com/72017753/114985259-cd47b100-9ebc-11eb-84fd-7c7f6091534c.JPG)
+
+# TASK 4-4 (Delete-1)
+![task4-4(delet-1)](https://user-images.githubusercontent.com/72017753/114985323-e0f31780-9ebc-11eb-8fc1-a44f5426d102.JPG)
+
+# TASK 4-4 (Delete-2)
+![task4-4(delet-2)](https://user-images.githubusercontent.com/72017753/114985378-ef413380-9ebc-11eb-89ad-537441a8da47.JPG)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
